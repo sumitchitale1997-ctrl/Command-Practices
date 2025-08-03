@@ -3,4 +3,4 @@ Creating the repository for command practices and workings
 
 This is my first commit and update it.
 <br>
-Author - Sumit Chitale
+Author - Sumit B Chitale
